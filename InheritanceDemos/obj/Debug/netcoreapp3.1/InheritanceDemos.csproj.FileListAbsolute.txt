@@ -1,0 +1,14 @@
+C:\Users\Anamika\source\repos\InheritanceDemos\InheritanceDemos\bin\Debug\netcoreapp3.1\InheritanceDemos.exe
+C:\Users\Anamika\source\repos\InheritanceDemos\InheritanceDemos\bin\Debug\netcoreapp3.1\InheritanceDemos.deps.json
+C:\Users\Anamika\source\repos\InheritanceDemos\InheritanceDemos\bin\Debug\netcoreapp3.1\InheritanceDemos.runtimeconfig.json
+C:\Users\Anamika\source\repos\InheritanceDemos\InheritanceDemos\bin\Debug\netcoreapp3.1\InheritanceDemos.runtimeconfig.dev.json
+C:\Users\Anamika\source\repos\InheritanceDemos\InheritanceDemos\bin\Debug\netcoreapp3.1\InheritanceDemos.dll
+C:\Users\Anamika\source\repos\InheritanceDemos\InheritanceDemos\bin\Debug\netcoreapp3.1\InheritanceDemos.pdb
+C:\Users\Anamika\source\repos\InheritanceDemos\InheritanceDemos\obj\Debug\netcoreapp3.1\InheritanceDemos.csproj.AssemblyReference.cache
+C:\Users\Anamika\source\repos\InheritanceDemos\InheritanceDemos\obj\Debug\netcoreapp3.1\InheritanceDemos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anamika\source\repos\InheritanceDemos\InheritanceDemos\obj\Debug\netcoreapp3.1\InheritanceDemos.AssemblyInfoInputs.cache
+C:\Users\Anamika\source\repos\InheritanceDemos\InheritanceDemos\obj\Debug\netcoreapp3.1\InheritanceDemos.AssemblyInfo.cs
+C:\Users\Anamika\source\repos\InheritanceDemos\InheritanceDemos\obj\Debug\netcoreapp3.1\InheritanceDemos.csproj.CoreCompileInputs.cache
+C:\Users\Anamika\source\repos\InheritanceDemos\InheritanceDemos\obj\Debug\netcoreapp3.1\InheritanceDemos.dll
+C:\Users\Anamika\source\repos\InheritanceDemos\InheritanceDemos\obj\Debug\netcoreapp3.1\InheritanceDemos.pdb
+C:\Users\Anamika\source\repos\InheritanceDemos\InheritanceDemos\obj\Debug\netcoreapp3.1\InheritanceDemos.genruntimeconfig.cache
